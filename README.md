@@ -7,7 +7,7 @@ This repository consist of a 50-day program. All the statistics required for the
 | ----- | ------------------------------------- | ------------------------------------------------------------ |
 | 1     | Elements of Structured Data           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/komal11lamba/50-days-of-Statistics-for-Data-Science/blob/main/Day1_Elements_of_structured_data.ipynb) |
 | 2     | Rectangular Data                      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/komal11lamba/50-days-of-Statistics-for-Data-Science/blob/main/Day2_Rectangular%20and%20Nonrectangular%20data.ipynb) |
-| 3     | Estimates of Location                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/komal11lamba/50-days-of-Statistics-for-Data-Science/blob/main/Day3_Estimates%20of%20Location.ipynb) |
+| 3     | Estimates of Location                 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1flcM8KxoQTvugUSXlsjXOvVzGdx26RFK#scrollTo=-679TPUgID0Z) |
 | 4     | Estimates of Variability              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | 5     | Exploring the Data Distribution       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
 | 6     | Exploring Binary and Categorical Data | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
