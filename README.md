@@ -1,7 +1,7 @@
 # 50-days-of-Statistics-for-Data-Science
 This repository consist of a 50-day program. All the statistics required for the complete understanding of data science will be uploaded in this repository.
 
-![](D:\newgithub\50-days-of-Statistics-for-Data-Science\50-days-poster.jpg)
+![](D:\statistics\50-days-poster.jpg)
 
 | Sr No | Notebook Topic                        | Colab                                                        |
 | ----- | ------------------------------------- | ------------------------------------------------------------ |
